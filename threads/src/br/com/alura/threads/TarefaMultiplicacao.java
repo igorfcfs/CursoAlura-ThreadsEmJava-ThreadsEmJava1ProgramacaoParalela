@@ -1,4 +1,4 @@
-package threads;
+package br.com.alura.threads;
 
 import java.math.BigInteger;
 

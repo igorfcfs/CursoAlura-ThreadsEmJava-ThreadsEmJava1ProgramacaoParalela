@@ -1,4 +1,4 @@
-package threads;
+package br.com.alura.threads;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
